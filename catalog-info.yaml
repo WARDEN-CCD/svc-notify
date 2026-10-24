@@ -1,0 +1,13 @@
+# Backstage-compatible catalog entry (ADR-017).
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: svc-notify
+  description: Warden service notify
+  annotations:
+    github.com/project-slug: WARDEN-CCD/svc-notify
+spec:
+  type: service
+  lifecycle: experimental
+  owner: warden-maintainers
+  system: warden
