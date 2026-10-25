@@ -13,7 +13,7 @@
 
   <groupId>dev.warden</groupId>
   <artifactId>svc-notify</artifactId>
-  <version>0.1.7</version>
+  <version>0.1.8</version>
   <name>svc-notify</name>
   <description>Warden service notify (owner: warden-maintainers)</description>
 
