@@ -24,5 +24,5 @@ management:
 warden:
   demo:
     # Change these in a commit to ship a deliberately faulty (but signed) release for experiment E3.
-    error-rate: 0.10
+    error-rate: 0.0
     latency-ms: 0
